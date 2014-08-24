@@ -1,0 +1,4 @@
+*.db
+*.rds
+emissions.zip
+.Rhistory
